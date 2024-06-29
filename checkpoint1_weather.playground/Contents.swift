@@ -12,3 +12,11 @@ let celsiusTemp = 28
 var farenheitTemp = ((celsiusTemp * 9) / 5) + 32
 
 print("Actual temperature in CDMX is \(celsiusTemp)°C / \(farenheitTemp)°F")
+
+/*
+ Personal goal
+ 
+ TODO: to obtain current ubication and provide his corresponding day weather forecast (relevant data: max and min temp, probability of rain %, sunrise and sunset)
+ 
+ bonus TODO: to send it daily via whatsapp / email / sms message
+*/
