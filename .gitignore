@@ -2,3 +2,5 @@
 *.xcuserstate
 
 checkpoint1_weather.playground/playground.xcworkspace/xcuserdata/rodri.xcuserdatad/
+
+.DS_Store
